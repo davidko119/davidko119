@@ -1,16 +1,14 @@
-## Hi there 👋
+# David Sarlak
 
-<!--
-**davidko119/davidko119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+18-year-old technical founder from Slovakia, building developer tools and AI.
 
-Here are some ideas to get you started:
+**What I'm working on**
+- An agent-native developer platform in Rust (runtime, guardrails, verifiable results) - in development, waitlist live at [Drift](https://drift-opal-omega.vercel.app)
+- iOS apps in Swift (health, wellbeing, finance) - currently in TestFlight
+- Freelance work in Rust, AI agents and web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Selected public work**
+- [AI Health Consilium](https://github.com/davidko119/ai-health-consilium) - open-source app simulating a council of AI scientist agents for biomedical research gap discovery
+- [Nerby](https://github.com/davidko119/nerby-app) - iOS app connecting people who need hands-on help with nearby providers (SwiftUI)
+
+**Links**: [davidsarlak.com](https://davidsarlak.com)
